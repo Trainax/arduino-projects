@@ -1,2 +1,3 @@
-# arduino-projects
- This repository contains all my Arduino code and projects
+# Arduino projects
+
+In questa repository ho raccolto tutto il mio codice scritto per Arduino
